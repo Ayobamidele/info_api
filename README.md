@@ -63,7 +63,7 @@ fastapi dev
 
 Here’s an example of how to use the API:
 
-![Info API](.\assets\image.png)
+![Info API](/assets/image.png)
 
 This image shows how the API returns the expected JSON response when you make a `GET` request.
 
