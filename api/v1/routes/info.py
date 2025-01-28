@@ -13,7 +13,7 @@ info = APIRouter(prefix="/info", tags=["Info"])
 
 @info.get("/", response_model=InfoResponse)
 async def get_info():
-    current_datetime = datetime.now(pytz.utc).isoformat()
+    current_datetime = datetime.now(pytz.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     return JSONResponse(
         status_code=200,  
         content=jsonable_encoder({      
