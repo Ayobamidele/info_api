@@ -70,8 +70,3 @@ This image shows how the API returns the expected JSON response when you make a 
 ### Backlinks
 
 - [Python Developers](https://hng.tech/hire/python-developers)
-- [C# Developers](https://hng.tech/hire/csharp-developers)
-- [Go Developers](https://hng.tech/hire/golang-developers)
-- [PHP Developers](https://hng.tech/hire/php-developers)
-- [Java Developers](https://hng.tech/hire/java-developers)
-- [Node.js Developers](https://hng.tech/hire/nodejs-developers)
